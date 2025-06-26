@@ -156,6 +156,10 @@ This project helped in understanding:
 - **Version Control**: Git workflow and collaboration
 - **Web Development**: Frontend development principles
 
+📧 Contact
+Mudit - @Mudit62004
+Project Link: https://github.com/Mudit62004/project-spotify-clone
+
 
 
 
