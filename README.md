@@ -158,6 +158,7 @@ This project helped in understanding:
 
 📧 Contact
 Mudit - @Mudit62004
+
 Project Link: https://github.com/Mudit62004/project-spotify-clone
 
 
